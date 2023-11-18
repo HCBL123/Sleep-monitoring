@@ -1,0 +1,1 @@
+export const chatApiKey = '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'
